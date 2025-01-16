@@ -1,6 +1,6 @@
 # 🚀 Boltrade DarpServer
 
-A server implementation for Boltrade  analytics using MCP (Model Control Protocol) , focusing on Solana token analysis.
+A server implementation for Boltrade  analytics using DARP, focusing on Solana token analysis.
 
 ## ✨ Features
 
